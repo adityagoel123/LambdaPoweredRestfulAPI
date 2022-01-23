@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# ordersapi
+HEAD# ordersapi
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
@@ -129,4 +128,4 @@ Next, you can use AWS Serverless Application Repository to deploy ready to use A
 =======
 # LambdaPoweredRestfulAPI
 LambdaPoweredRestfulAPI behind the API-Gateway
->>>>>>> 05ba01f977cb82e6eb4809cc8687066696dd387d
+
